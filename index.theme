@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=blackmint
+Comment=A more modern, dark, spaced out, curved fork of the mint-y theme
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=blackmint
+MetacityTheme=blackmint
+IconTheme=Papirus-Dark
+CursorTheme=Bibata-Modern-Classic
+ButtonLayout=menu:close,minimize,maximize
