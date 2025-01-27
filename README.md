@@ -1,5 +1,6 @@
 # blackmint
-![Screenshot of a cinnamon desktop with the blackmint theme] (src/screenshot.png)
+![Screenshot of a cinnamon desktop with the blackmint theme](src/screenshot.png)
+# Description
 A curved, modernised theme for the cinnamon desktop based on Mint-Y
 There is also a matching gtk3 theme, but gtk2 and gtk4 themes need to be developed
 # How to install/use:
