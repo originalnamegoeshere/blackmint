@@ -1698,20 +1698,11 @@ StScrollBar {
     border-radius: 10px; }
 
 .grouped-window-list-item-demands-attention {
-  text-align: left;
   font-weight: bold;
   background-image: none;
-  padding-top: 0;
-  padding-left: 20px;
-  padding-right: 20px;
   transition-duration: 600;
-  color: rgba(255, 255, 255, 0.67);
-  border-radius:10px;   
   color: rgba(255, 255, 255, 0.87);
   box-shadow: inset 0 0 0 1000px rgb(128, 64, 0); }
-
-.grouped-window-list-item-demands-attention:hover {
-  box-shadow: inset 0 0 1000px rgb(144, 80, 16); } 
 
 .grouped-window-list-thumbnail-label {
   padding-left: 4px; }
